@@ -1,21 +1,15 @@
 body {
     text-align: center;
-    margin: 200px;
+    margin: 100px;
     font-size: 50px;
     background-image: url("https://cdn10.bigcommerce.com/s-raqyrv37/products/94/images/421/lime_colored_sand__37341.1454364400.750.475.jpg?c=2");
 }
 
-.TreeTitle {
+.Title {
     font-family: 'Faster One', cursive;
 }
 
+.Question{
+    font-size: 30px;
+}
 
-.Tree1 {
-    font-family: 'Wendy One', sans-serif;
-    
-    
-}
-.tree1 {
-    height:350px;
-    width:350px;
-}
