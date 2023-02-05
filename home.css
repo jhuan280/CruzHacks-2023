@@ -9,7 +9,159 @@ body {
     font-family: 'Faster One', cursive;
 }
 
-.Question{
+.Question {
     font-size: 30px;
 }
 
+.Question2 {
+    font-size: 100px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.Question3 {
+    font-size: 30px;
+
+}
+
+.Question4 {
+    font-size: 100px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.Question5 {
+    font-size: 30px;
+}
+
+.Question6 {
+    font-size: 100px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.Question7 {
+    font-size: 30px;
+}
+
+.Question8 {
+    font-size: 100px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.Question9 {
+    font-size: 30px;
+}
+
+.Question10 {
+    font-size: 100px;
+    display: flex;
+    justify-content: space-around;
+}
+
+
+.Safe{
+    width: 220px;
+    height:220px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 200px;
+
+}
+
+.Dangerous{
+    width: 220px;
+    height:220px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 200px;
+}
+
+.Safe2{
+    width: 220px;
+    height:220px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 200px;
+
+}
+
+.Dangerous2{
+    width: 220px;
+    height:220px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 200px;
+}
+
+.Safe3{
+    width: 220px;
+    height:220px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 200px;
+
+}
+
+.Dangerous3{
+    width: 220px;
+    height:220px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 200px;
+}
+
+.Safe4{
+    width: 220px;
+    height:220px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 200px;
+
+}
+
+.Dangerous4{
+    width: 220px;
+    height:220px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 200px;
+}
+
+.Safe5{
+    width: 220px;
+    height:220px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 200px;
+
+}
+
+.Dangerous5{
+    width: 220px;
+    height:220px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 200px;
+}
